@@ -34,7 +34,7 @@ function testing(){
             wall.shapeColor = color(225,0,0);
         }
         if(damage < 10){
-            wall.shapeColor  = "green";
+            wall.shapeColor  = "lightgreen";
         }
     }
     else{
